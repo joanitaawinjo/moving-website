@@ -179,6 +179,11 @@ hr {
     box-shadow: 10px 10px;
     line-height: 1.8;
   }
+  .reflection{
+    color: blue;
+    margin-left: 10%;
+    
+  }
   .why-choose-riaad{
     text-align: left;
     
@@ -327,7 +332,7 @@ hr {
   
   } 
   .making-choice{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(images/istockphoto-1402501680-612x612.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(images/istockphoto-626177900-612x612.jpg);
     height: 30vh;
     width: 20%;
     text-align: left;
@@ -337,7 +342,7 @@ hr {
     line-height: 1.8;
   }
   .baby-boomer{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(images/istockphoto-1402501680-612x612.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(images/istockphoto-1733707831-612x612.jpg);
     height: 30vh;
     width: 20%;
     text-align:left;
@@ -345,9 +350,35 @@ hr {
     font-size: 1vw;
     box-shadow: 10px 10px;
     line-height: 1.8;
-  
   }
-
+  .discovering-more{
+    background-color: orange;
+    display: flex;
+    margin-top: 8%;
+    color: white;
+    gap: 20%;
+    text-align: center;
+    height: 20%;
+  }
+  #button-four{
+    background-color: black;
+    color: white;
+    width: 10%;
+    height: 3pc;
+    font-size: 0.8vw;
+  }
+  .footer{
+    display: flex;
+    gap: 10%;
+    background-color: rgb(1, 1, 32);
+    color: white;
+    text-align: left;
+  }
+  .footer-four{
+    display: flex;
+    font-size: 5vw;
+    margin-left: -100%;
+  }
 
   
   
