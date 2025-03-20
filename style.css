@@ -52,7 +52,7 @@ margin-left: 10%;
     padding: 20px;
     width: 10%;
     color: white;
-    background-color: yellow;
+    background-color: orange;
     font-size: 1vw;
     border: none;
 }
@@ -63,7 +63,7 @@ margin-left: 10%;
     gap: -100%;
 }
 #about-us{
-    color: rgb(228, 228, 20);
+    color: orange;
     text-underline-position: solid 5px below ; 
 }
 #stockphoto{
@@ -81,32 +81,12 @@ margin-left: 10%;
     margin-top: 6%;
     line-height: 20px;
 }#RIAAD{
-    color: rgb(245, 245, 5);
+    color: orange;
 }
 .logos{
     margin-top: 8%;
     margin-left: 30%;
-    gap: 20%;
-}
-
-#first-logo{
-    margin-left: 5%;
-
-}
-#second-logo{
-    
-}
-#third-logo{
-    
-}
-#forth-logo{
-    
-}
-#fifth-logo{
-
-}
-.service-offered{
-    margin-left: %;
+    gap: 30%;
 }
 .service{
     text-align: center;
@@ -123,7 +103,7 @@ margin-left: 10%;
     width: 13%;
 }
 #box{
-    background-color: rgb(250, 250, 96);
+    background-color: orange;
     width:30%;
     border-radius: 80%;
     padding: 8px;
@@ -145,7 +125,7 @@ margin-left: 10%;
     width: 10%;
 }
 #track{
-    background-color: rgb(250, 250, 7);
+    background-color: orange;
     width:30%;
     border-radius: 80%;
     padding: 8px;
@@ -154,7 +134,7 @@ margin-left: 10%;
     width: 10%;
 }
 #shield{
-    background-color: yellow;
+    background-color: orange;
     width:30%;
     border-radius: 80%;
     padding: 8px;
@@ -187,21 +167,114 @@ hr {
     display: flex;
     gap: 5%;
     margin-top: 7%;
+    margin-left: 30%;
   }
   .moving-business{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("images/photo-1624137308703-e1da1ca881df.avif");
-    height: 60vh;
-    width: 20%;
+    height: 50vh;
+    width: 30%;
     text-align: center;
     color: white;
     font-size: 1vw;
     box-shadow: 10px 10px;
     background-color: white;
+    line-height: 1.8;
   }
   .why-choose-riaad{
     text-align: left;
+    
   }
   #riaad{
-    color: rgb(250, 250, 11);
+    color: orange;
   }
+  .the-achievements{
+    gap: 13%;
+    margin-top: 8%;
+    
+  }
+  .achievement{
+    display: flex;
+    gap: 2%;
+
+  }
+  #tick{
+    background-color: orange;
+    padding: 3px;
+    border-radius: 50%;
+    width: 4%;
+    height: 4%;
+    margin-top: 2%;
+  }
+  .for-help{
+    margin-left: 40%;
+    display: flex;
+  }
+  #booking{
+    color: orange;
+  }
+  #video{
+    width: 100%; 
+    position: center;
+    size: cover;
+    margin-top: 5%;
+  }
+  .book{
+    background-color: orange;
+    color: white;
+    width: 40%;
+    
+  }
+  .book-us{
+    display: flex;
+    gap: -1%;
+  }
+  .request-forms{
+    display: flex;
+    gap: 5%;
+    border: none;
+    background-color: blue;
+    color: white;
+    padding: 5pc;
+    width: 70%;
+  }
+  #buttontwo{
+    background-color: orange;
+    padding: 10%;
+    border: none;
+    color: white;
+  }
+  .testimonial{
+    text-align: center;
+    margin-top: 6%;
+  }
+  .what-people-say{
+    text-align: center;
+    display: flex;
+    gap: 8%;
+    line-height: 1.6pc;
+    margin-left: 23%;
+    margin-top: 4%;
+  }
+  #testimonial{
+    color: orange;
+  }
+  #what-they-say{
+    font-size: 3vw;
+  }
+  #rose{
+    color: orange;
+    font-size: 1vw;
+  }
+  #comma{
+    width: 15%;
+  }
+  #customer{
+    width: 30%;
+    margin-top: 8%;
+    border-radius: 50%;
+  }
+
+  
+  
+  
 
