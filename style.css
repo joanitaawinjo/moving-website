@@ -1,0 +1,207 @@
+.container{
+    margin: 0 auto;
+
+}
+.hello{
+    display: flex;
+    gap: 50%;
+    margin-left: 15%;
+}
+#email address{
+   border: none; 
+   color: lightgrey; 
+   margin-top: 2%;
+}
+#envelop{
+    color: blue;
+    margin-left: -780px;
+    margin-top: 2%;
+    font-size: 200%;
+}
+#phone-volume{
+    color: rgb(68, 187, 226);
+    font-size: 200%;
+    margin-top: 2%;
+    margin-right: -48%;
+}
+.phone line{
+margin-left: 10%;
+}
+.about{
+    display: flex;
+    gap: 5%;
+    margin-top: 4%;
+    margin-left: 20%;
+}
+#naxa{
+    width: 3%;
+    margin-top: 6%;
+}
+.inner-words{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(images/istockphoto-1191377762-612x612.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 3vw;
+}
+#button{
+    padding: 20px;
+    width: 10%;
+    color: white;
+    background-color: yellow;
+    font-size: 1vw;
+    border: none;
+}
+.second-section{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 25%;
+    gap: -100%;
+}
+#about-us{
+    color: rgb(228, 228, 20);
+    text-underline-position: solid 5px below ; 
+}
+#stockphoto{
+    width: 65%;
+    height: 70%;
+}
+#stockphototwo{
+    width: 100%;
+    height: 80%;
+    margin-top: -4%;
+}
+.image-area-words{
+    display: flex;
+    gap: 8%;
+    margin-top: 6%;
+    line-height: 20px;
+}#RIAAD{
+    color: rgb(245, 245, 5);
+}
+.logos{
+    margin-top: 8%;
+    margin-left: 30%;
+    gap: 20%;
+}
+
+#first-logo{
+    margin-left: 5%;
+
+}
+#second-logo{
+    
+}
+#third-logo{
+    
+}
+#forth-logo{
+    
+}
+#fifth-logo{
+
+}
+.service-offered{
+    margin-left: %;
+}
+.service{
+    text-align: center;
+    margin-top: 5%;
+}
+.all-services{
+    display: flex;
+    text-align: center;
+    margin-left: 30%;
+    gap: 4%;
+}
+
+.packing{
+    width: 13%;
+}
+#box{
+    background-color: rgb(250, 250, 96);
+    width:30%;
+    border-radius: 80%;
+    padding: 8px;
+}
+.storage{
+    background-color: rgb(27, 148, 189);
+    width: 13%;
+    color: white;
+}
+#warehouse{
+    background-color: white;
+    width:30%;
+    border-radius: 80%;
+    padding: 8px;
+    margin-top: 5%;
+    color: blue;
+}
+.transport{
+    width: 10%;
+}
+#track{
+    background-color: rgb(250, 250, 7);
+    width:30%;
+    border-radius: 80%;
+    padding: 8px;
+}
+.insurance{
+    width: 10%;
+}
+#shield{
+    background-color: yellow;
+    width:30%;
+    border-radius: 80%;
+    padding: 8px;
+}
+
+hr { 
+    margin-top:20%;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    width: 80%;
+    height: -8px;
+  } 
+  .helping-you{
+    display: flex;
+    gap: 10%;
+    margin-top: 5%;
+    margin-left: 26%;
+  }
+  .click-video{
+    display: flex;
+    gap: 5%;
+    width: 30%;
+    margin-top: 1%;
+  }
+  .why-riaad{
+    text-align: center;
+    display: flex;
+    gap: 5%;
+    margin-top: 7%;
+  }
+  .moving-business{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("images/photo-1624137308703-e1da1ca881df.avif");
+    height: 60vh;
+    width: 20%;
+    text-align: center;
+    color: white;
+    font-size: 1vw;
+    box-shadow: 10px 10px;
+    background-color: white;
+  }
+  .why-choose-riaad{
+    text-align: left;
+  }
+  #riaad{
+    color: rgb(250, 250, 11);
+  }
+
