@@ -1,6 +1,10 @@
-.container{
+@font-face {
+  font-family: macondo swash;
+  src: url(Macondo_Swash_Caps\,News_Cycle\,Passion_One\,Poppins/);
+}
+.main-container{
     margin: 0 auto;
-
+    font-family: macondo swash;
 }
 .hello{
     display: flex;
@@ -39,6 +43,9 @@ margin-left: 10%;
 #naxa{
     width: 3%;
     margin-top: 6%;
+}
+#smooth-moving{
+  font-size: 1vw;
 }
 .inner-words{
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(images/istockphoto-1191377762-612x612.jpg);
@@ -95,15 +102,21 @@ margin-left: 10%;
     text-align: center;
     margin-top: 5%;
 }
+#our-service{
+  color: orange;
+  margin-top: 8%;
+}
 .all-services{
     display: flex;
     text-align: center;
     margin-left: 30%;
-    gap: 4%;
+    gap: 5%;
 }
 
 .packing{
     width: 13%;
+    margin-top: 1%;
+    line-height: 2pc;
 }
 #box{
     background-color: orange;
@@ -115,6 +128,8 @@ margin-left: 10%;
     background-color: rgb(27, 148, 189);
     width: 13%;
     color: white;
+    line-height: 2pc;
+    margin-top: 1%;
 }
 #warehouse{
     background-color: white;
@@ -126,15 +141,20 @@ margin-left: 10%;
 }
 .transport{
     width: 10%;
+    line-height: 2pc;
+    margin-top: 1%;
 }
 #track{
     background-color: orange;
     width:30%;
     border-radius: 80%;
-    padding: 8px;
+    padding: 10px;
+    line-height: 2pc;
 }
 .insurance{
     width: 10%;
+    line-height: 2pc;
+    margin-top: 1%;
 }
 #shield{
     background-color: orange;
@@ -320,44 +340,50 @@ hr {
     gap: 1%;
     color: white;
     margin-left: 25%;
-    text-indent: 20px 15px;
+    padding-left: 3%;
   }
   .our-home{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(images/istockphoto-1402501680-612x612.jpg);
-    height: 30vh;
-    width: 20%;
+    height: 23vh;
+    width: 17%;
     text-align: left;
     color: white;
     font-size: 1vw;
     box-shadow: 10px 10px;
     line-height: 1.8;
+    padding-left: 3%;
+    padding-top: 5%;
 
   
   } 
   .making-choice{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(images/istockphoto-626177900-612x612.jpg);
-    height: 30vh;
-    width: 20%;
+    height: 23vh;
+    width: 17%;
     text-align: left;
     color: white;
     font-size: 1vw;
     box-shadow: 10px 10px;
     line-height: 1.8;
+    padding-left: 3%;
+    padding-top: 5%;
   }
   .baby-boomer{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(images/istockphoto-1733707831-612x612.jpg);
-    height: 30vh;
-    width: 20%;
+    height: 23vh;
+    width: 17%;
     text-align:left;
     color: white;
     font-size: 1vw;
     box-shadow: 10px 10px;
     line-height: 1.8;
+    padding-left: 3%;
+    padding-top: 5%;
   }
   .discovering-more{
     background-color: orange;
     display: flex;
-    margin-top: 8%;
+    margin-top: 5%;
     color: white;
     gap: 20%;
     text-align: right;
